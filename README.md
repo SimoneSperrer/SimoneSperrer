@@ -27,7 +27,7 @@ I am also the media officer of "Landjugend Inzersdorf im Kremstal".
 <br>
 
 ## My School
-[![HTL Leonding](https://img.shields.io/badge/HTBLA%20Leonding-a30a25)](https://www.htl-leonding.at/bildungsangebot/medientechnik/)
+[![HTL Leonding](https://img.shields.io/badge/HTBLA%20Leonding-a30a25)](https://www.htl-leonding.at/)
 [![IT-Medientechnik](https://img.shields.io/badge/IT%20--%20Medientechnik-86b5d7)](https://www.htl-leonding.at/bildungsangebot/medientechnik/)
 
 
