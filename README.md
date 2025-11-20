@@ -49,7 +49,7 @@ I am also the media officer of "Landjugend Inzersdorf im Kremstal".
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneSperrer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
